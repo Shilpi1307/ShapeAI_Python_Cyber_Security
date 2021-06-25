@@ -1,0 +1,8 @@
+-----------------------------------------------------------------------
+Weather Statistics for - NOIDA || 25 Jun 2021 | 07:25:51 PM
+-----------------------------------------------------------------------
+Current Temperature in degree Celcius is 40.3 deg C
+Current Temperature in degree Fahrenheit is 104.5 deg F
+Current Weather Description:  Scattered Clouds
+Current Humidity:  15 %
+Current Wind Speed:  1.54 kmph
